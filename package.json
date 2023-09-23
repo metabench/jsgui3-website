@@ -1,0 +1,19 @@
+{
+    "name": "jsgui3-website",
+    "main": "Website.js",
+    "license": "MIT",
+
+    "comments": [
+        "Just depend on jsgui3-html for the moment. This would be a website in the abstract sense."
+    ],
+
+    "dependencies": {
+        "jsgui3-html": "^0.0.111"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/metabench/jsgui3-website.git"
+    },
+    "author": "James Vickers <james@metabench.com>",
+    "version": "0.0.1"
+}
